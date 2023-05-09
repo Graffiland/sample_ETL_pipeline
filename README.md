@@ -1,2 +1,2 @@
 # sample_ETL_pipeline
-ETL pipeline with postgresql, mysql and docker containers.
+Extract Tranform Load (ETL) pipeline with postgresql, mysql and docker containers.
